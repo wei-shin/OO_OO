@@ -24,7 +24,7 @@
 |0624098|江維欣|
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
+---
 public class CTriangle extends CShape{
   protected double x,y,z;
   public CTriangle(double x, double y, double z){
@@ -54,3 +54,4 @@ public class main{
     shape.show();
   }
 }
+---
